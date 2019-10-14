@@ -1,0 +1,180 @@
+{
+"name": "Product Sales",
+"children": [
+    {
+        "name": "Accessories",
+        "children": [
+            {
+                "name": "Bike Racks",
+                "children": [
+                    {"name": "Hitch Rack - 4-Bike", "value": 39360}
+                ]
+            },
+            {
+                "name": "Bike Stands",
+                "children": [
+                    {"name": "All-Purpose Bike Stand", "value": 39591}
+                ]
+            },
+            {
+                "name": "Bottles and Cages",
+                "children": [
+                    {"name": "Mountain Bottle Cage", "value": 20230},
+                    {"name": "Road Bottle Cage", "value": 15391},
+                    {"name": "Water Bottle - 30 oz.", "value": 21178}
+                ]
+            },
+            {
+                "name": "Cleaners",
+                "children": [
+                    {"name": "Bike Wash - Dissolver", "value": 7219}
+                ]
+            },
+            {
+                "name": "Fenders",
+                "children": [
+                    {"name": "Fender Set - Mountain", "value": 46620}
+                ]
+            },
+            {
+                "name": "Helmets",
+                "children": [
+                    {"name": "Sport-100 Helmet, Black", "value": 72954},
+                    {"name": "Sport-100 Helmet, Blue", "value": 74354},
+                    {"name": "Sport-100 Helmet, Red", "value": 78028}
+                ]
+            },
+            {
+                "name": "Hydration Packs",
+                "children": [
+                    {"name": "Hydration Pack - 70 oz.", "value": 40308}
+                ]
+            },
+            {
+                "name": "Tires and Tubes",
+                "children": [
+                    {"name": "HL Mountain Tire", "value": 48860},
+                    {"name": "HL Road Tire", "value": 27971},
+                    {"name": "LL Mountain Tire", "value": 21541},
+                    {"name": "LL Road Tire", "value": 22436},
+                    {"name": "ML Mountain Tire", "value": 34818},
+                    {"name": "ML Road Tire", "value": 23141},
+                    {"name": "Mountain Tire Tube", "value": 154447},
+                    {"name": "Patch Kit/8 Patches", "value": 7307},
+                    {"name": "Road Tire Tube", "value": 9480},
+                    {"name": "Touring Tire", "value": 27106},
+                    {"name": "Touring Tire Tube", "value": 7425}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bikes",
+        "children": [
+            {
+                "name": "Mountain Bikes",
+                "children": [
+                    {"name": "Mountain-100 Black, 38", "value": 165375},
+                    {"name": "Mountain-100 Black, 42", "value": 151875},
+                    {"name": "Mountain-100 Black, 44", "value": 202499},
+                    {"name": "Mountain-100 Black, 48", "value": 192374},
+                    {"name": "Mountain-100 Silver, 38", "value": 197199},
+                    {"name": "Mountain-100 Silver, 42", "value": 142800},
+                    {"name": "Mountain-100 Silver, 44", "value": 166600},
+                    {"name": "Mountain-100 Silver, 48", "value": 122400},
+                    {"name": "Mountain-200 Black, 38", "value": 1294866},
+                    {"name": "Mountain-200 Black, 42", "value": 1363142},
+                    {"name": "Mountain-200 Black, 46", "value": 1373470},
+                    {"name": "Mountain-200 Silver, 38", "value": 1339463},
+                    {"name": "Mountain-200 Silver, 42", "value": 1257435},
+                    {"name": "Mountain-200 Silver, 46", "value": 1301100},
+                    {"name": "Mountain-400-W Silver, 38", "value": 113885},
+                    {"name": "Mountain-400-W Silver, 40", "value": 98495},
+                    {"name": "Mountain-400-W Silver, 42", "value": 99264},
+                    {"name": "Mountain-400-W Silver, 46", "value": 106190},
+                    {"name": "Mountain-500 Black, 40", "value": 25920},
+                    {"name": "Mountain-500 Black, 42", "value": 26460},
+                    {"name": "Mountain-500 Black, 44", "value": 31319},
+                    {"name": "Mountain-500 Black, 48", "value": 30239},
+                    {"name": "Mountain-500 Black, 52", "value": 22140},
+                    {"name": "Mountain-500 Silver, 40", "value": 25425},
+                    {"name": "Mountain-500 Silver, 42", "value": 25425},
+                    {"name": "Mountain-500 Silver, 44", "value": 22035},
+                    {"name": "Mountain-500 Silver, 48", "value": 28250},
+                    {"name": "Mountain-500 Silver, 52", "value": 27120}
+                ]
+            },
+            {
+                "name": "Road Bikes",
+                "children": [
+                    {"name": "Road-150 Red, 44", "value": 1005494},
+                    {"name": "Road-150 Red, 48", "value": 1205877},
+                    {"name": "Road-150 Red, 52", "value": 1080638},
+                    {"name": "Road-150 Red, 56", "value": 1055590},
+                    {"name": "Road-150 Red, 62", "value": 1202299},
+                    {"name": "Road-250 Black, 44", "value": 628377},
+                    {"name": "Road-250 Black, 48", "value": 691206},
+                    {"name": "Road-250 Black, 52", "value": 734401},
+                    {"name": "Road-250 Black, 58", "value": 622007},
+                    {"name": "Road-250 Red, 44", "value": 351842},
+                    {"name": "Road-250 Red, 48", "value": 395823},
+                    {"name": "Road-250 Red, 52", "value": 324966},
+                    {"name": "Road-250 Red, 58", "value": 702638},
+                    {"name": "Road-350-W Yellow, 40", "value": 418444},
+                    {"name": "Road-350-W Yellow, 42", "value": 399733},
+                    {"name": "Road-350-W Yellow, 44", "value": 367414},
+                    {"name": "Road-350-W Yellow, 48", "value": 394630},
+                    {"name": "Road-550-W Yellow, 38", "value": 293889},
+                    {"name": "Road-550-W Yellow, 40", "value": 290007},
+                    {"name": "Road-550-W Yellow, 42", "value": 334586},
+                    {"name": "Road-550-W Yellow, 44", "value": 312337},
+                    {"name": "Road-550-W Yellow, 48", "value": 283804},
+                    {"name": "Road-650 Black, 44", "value": 47567},
+                    {"name": "Road-650 Black, 48", "value": 45553},
+                    {"name": "Road-650 Black, 52", "value": 66918},
+                    {"name": "Road-650 Black, 58", "value": 57997},
+                    {"name": "Road-650 Black, 60", "value": 57158},
+                    {"name": "Road-650 Black, 62", "value": 49049},
+                    {"name": "Road-650 Red, 44", "value": 54530},
+                    {"name": "Road-650 Red, 48", "value": 66722},
+                    {"name": "Road-650 Red, 52", "value": 46085},
+                    {"name": "Road-650 Red, 58", "value": 56347},
+                    {"name": "Road-650 Red, 60", "value": 40072},
+                    {"name": "Road-650 Red, 62", "value": 57382},
+                    {"name": "Road-750 Black, 44", "value": 194396},
+                    {"name": "Road-750 Black, 48", "value": 196016},
+                    {"name": "Road-750 Black, 52", "value": 208436},
+                    {"name": "Road-750 Black, 58", "value": 180357}
+                ]
+            },
+            {
+                "name": "Touring Bikes",
+                "children": [
+                    {"name": "Touring-1000 Blue, 46", "value": 421980},
+                    {"name": "Touring-1000 Blue, 50", "value": 357611},
+                    {"name": "Touring-1000 Blue, 54", "value": 381451},
+                    {"name": "Touring-1000 Blue, 60", "value": 350458},
+                    {"name": "Touring-1000 Yellow, 46", "value": 410060},
+                    {"name": "Touring-1000 Yellow, 50", "value": 359995},
+                    {"name": "Touring-1000 Yellow, 54", "value": 376683},
+                    {"name": "Touring-1000 Yellow, 60", "value": 333770},
+                    {"name": "Touring-2000 Blue, 46", "value": 117840},
+                    {"name": "Touring-2000 Blue, 50", "value": 128774},
+                    {"name": "Touring-2000 Blue, 54", "value": 106907},
+                    {"name": "Touring-2000 Blue, 60", "value": 98403},
+                    {"name": "Touring-3000 Blue, 44", "value": 39345},
+                    {"name": "Touring-3000 Blue, 50", "value": 35633},
+                    {"name": "Touring-3000 Blue, 54", "value": 40829},
+                    {"name": "Touring-3000 Blue, 58", "value": 42314},
+                    {"name": "Touring-3000 Blue, 62", "value": 47510},
+                    {"name": "Touring-3000 Yellow, 44", "value": 43799},
+                    {"name": "Touring-3000 Yellow, 50", "value": 43799},
+                    {"name": "Touring-3000 Yellow, 54", "value": 35633},
+                    {"name": "Touring-3000 Yellow, 58", "value": 34890},
+                    {"name": "Touring-3000 Yellow, 62", "value": 37118}
+                ]
+            }
+        ]
+    }
+    ]  
+}
